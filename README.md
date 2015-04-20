@@ -1,6 +1,6 @@
-nepanode
+NEPAnode
 ========
 
-High level project plan
+Project planning and notes
 
-Use the Wiki!
+# Read the Wiki!
